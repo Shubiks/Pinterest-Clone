@@ -1,0 +1,5 @@
+BackEnd - Sanity.io
+
+run cmnds
+Client - nom run start
+Server - npm run dev
